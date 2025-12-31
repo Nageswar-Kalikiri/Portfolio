@@ -3,7 +3,7 @@
 Welcome to my personal portfolio website built with **React.js**, **Framer Motion**, and **modern UI design** principles.  
 It showcases my **projects, skills, and journey** as a developer passionate about **MERN Stack, Web Technologies, and Modern UI/UX Design**.
 
-🌐 **Website:** [https://mohanrex.netlify.app](https://mohanrex.netlify.app)
+<!-- 🌐 **Website:** [https://mohanrex.netlify.app](https://mohanrex.netlify.app) -->
 
 ---
 
@@ -37,7 +37,7 @@ To run this project locally:
 
 ```bash
 # 1️⃣ Clone the repository
-git clone https://github.com/Mohan-Rex/portfolio.git
+git clone https://github.com/Nageswar-Kalikiri/portfolio.git
 
 # 2️⃣ Navigate to project directory
 cd portfolio
