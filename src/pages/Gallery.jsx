@@ -23,7 +23,7 @@ achievements: [
   {
     id: 1,
     caption: [
-      "✅ Completed 2 full-stack MERN projects (E-Commerce, E-Learning, Fitness).",
+      "✅ Completed 2 full-stack MERN projects (E-Commerce, Asset Management).",
       "💻 Built and deployed a personal portfolio website using React & Vite.",
       "📚 Consistently practiced coding for 100+ days to strengthen problem-solving skills.",
       "🚀 Improved proficiency in React, Node.js, Express, and MongoDB through hands-on projects."
