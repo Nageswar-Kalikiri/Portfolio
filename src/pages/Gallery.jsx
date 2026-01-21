@@ -9,13 +9,7 @@ const IMAGES = {
       id: 1,
       caption: " Peaceful hill station vibes 🌤️  nothing beats cool air and calm mind ",
       photos: ["/gallery/Mohan1 (4).JPG"],
-    },
-    {
-      id: 2,
-      caption:
-        "Chillin’ with friends 🍃 Nothing like good company to refresh the mind",
-      photos: ["/gallery/Mohan1 (2).JPG", "/gallery/Mohan1 (3).JPG"],
-    },
+    }
   ],
   projects: [
     {
@@ -29,7 +23,7 @@ achievements: [
   {
     id: 1,
     caption: [
-      "✅ Completed 3 full-stack MERN projects (E-Commerce, E-Learning, Fitness).",
+      "✅ Completed 2 full-stack MERN projects (E-Commerce, E-Learning, Fitness).",
       "💻 Built and deployed a personal portfolio website using React & Vite.",
       "📚 Consistently practiced coding for 100+ days to strengthen problem-solving skills.",
       "🚀 Improved proficiency in React, Node.js, Express, and MongoDB through hands-on projects."
